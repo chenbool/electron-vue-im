@@ -1,5 +1,6 @@
 # electron-vue-im
 
 <div  align="center">    
-  <img src="1.png" width = "450" alt="支付宝" align=center />
+    <img src="./demo1.png" align=center />
+    <img src="./demo/1.gif" align=center />
 </div>
