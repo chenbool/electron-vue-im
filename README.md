@@ -3,8 +3,12 @@
 桌面端即时通讯应用，基于 Electron + Vue.js 开发。
 
 <div  align="center">    
-    <img src="./demo/1.png" align=center />
-    <img src="./demo/1.gif" align=center />
+    <table>
+        <tr>
+            <td><img src="./demo/1.png" align=center /></td>
+            <td><img src="./demo/1.gif" align=center /></td>
+        </tr>
+    </table>
 </div>
 
 ## 技术栈
